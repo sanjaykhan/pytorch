@@ -1,6 +1,8 @@
 import torch 
 from torch import nn
 
+# basic torch neuron
+
 X = torch.tensor([
     [10.0], 
     [38.0], 
